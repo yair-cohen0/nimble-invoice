@@ -1,0 +1,12 @@
+{
+  "name": "numble-invoice-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:backend": "npm run start:dev -w backend",
+    "dev:frontend": "npm run dev -w frontend"
+  },
+  "workspaces": ["./**"],
+  "author": "",
+  "license": "ISC"
+}
